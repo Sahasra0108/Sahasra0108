@@ -6,7 +6,6 @@ I'm currently an undergraduate student at the University of Moratuwa,passionate 
 - 🌱 I’m currently learning React.js and Springboot.
 - 👯 I’m looking to collaborate on open- source projects and interesting software initiatives.
 - 📫 How to reach me: https://www.linkedin.com/in/sachini-sahasra
-
 sachini.sahasra@gmail.com
 
 
