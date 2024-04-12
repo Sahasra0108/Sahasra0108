@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sachini 👩‍💻
 
-I'm currently an undergraduate student at the University of Moratuwa,passionate about technology and software development.
+I'm currently an undergraduate student at the University of Moratuwa, pursuing my degree in Information Technology (Faculty of IT).
 
 - 🔭 I’m currently working on my second year software project.
 - 🌱 I’m currently learning React.js and Springboot.
