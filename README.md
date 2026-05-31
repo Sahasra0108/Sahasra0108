@@ -9,7 +9,7 @@
 
 ## :girl: About Me
 
-I'm a full-stack developer who loves building scalable web and mobile apps and I'm always excited to give back through open source contributions!
+I'm a full-stack developer who loves building scalable web and mobile apps and I'm always excited to give back through open source contributions! :blush:
 
 ---
 
